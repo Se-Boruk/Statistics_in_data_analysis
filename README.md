@@ -1,5 +1,5 @@
-﻿# Semester_1:
-# Machine_learning_basics
+﻿# Master studies:
+# Machine_learning_basics 2025
 
 **License:** Apache 2.0  
 **Author:** Sebastian Borukało  
